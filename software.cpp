@@ -1,5 +1,5 @@
 #include "software.hpp"
-
+do ta moshkel dare 1: invalid argument baraie ersal kam dade nemifreste 2: baraie arziabi mission faghat paian safr ra darnazar migirad
 void Software :: run()
 {
     string command;
